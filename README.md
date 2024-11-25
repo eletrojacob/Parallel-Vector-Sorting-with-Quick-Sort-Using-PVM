@@ -74,6 +74,6 @@ University of São Paulo - ICMC
 
 André Jacob Suaide (13864673)  
 Felipe Aparecido da Silva  
-Gustavo  
-Rafael Bejes da Cunha Learth  
-Vitor Paiva de Brito
+Gustavo Carvalho de Araújo  
+Rafael Cunha Bejes Learth  
+Vitor Augusto Paiva de Brito
