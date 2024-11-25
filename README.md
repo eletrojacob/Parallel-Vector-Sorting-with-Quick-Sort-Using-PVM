@@ -66,12 +66,14 @@ make ordena
 make quick
 ```
 
+---
+
 ## Project Collaborators
 
 University of São Paulo - ICMC
 
-André Jacob Suaide (13864673)
-Felipe Aparecido da Silva
-Gustavo 
-Rafael Bejes da Cunha Learth
+André Jacob Suaide (13864673)  
+Felipe Aparecido da Silva  
+Gustavo  
+Rafael Bejes da Cunha Learth  
 Vitor Paiva de Brito
