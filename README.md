@@ -4,11 +4,11 @@ This repository demonstrates the use of **PVM (Parallel Virtual Machine)** to im
 
 ### Project Collaborators
 
-André Jacob Suaide - **13864673**
-Felipe Aparecido da Silva - **11954502**
-Gustavo Caravalho Araújo - **13735630**
-Rafael Bejes da Cunha Learth - **13676367**
-Vitor Augusto Paiva de Brito - **13732303**
+André Jacob Suaide - **13864673** <br>
+Felipe Aparecido da Silva - **11954502** <br>
+Gustavo Caravalho Araújo - **13735630** <br>
+Rafael Bejes da Cunha Learth - **13676367** <br>
+Vitor Augusto Paiva de Brito - **13732303** <br>
 
 ---
 
