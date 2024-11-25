@@ -2,6 +2,8 @@
 
 This repository demonstrates the use of **PVM (Parallel Virtual Machine)** to implement parallel sorting of an integer vector using the **Quick Sort** algorithm. The project is divided into a **master** process and multiple **slave** processes. The master coordinates the workload distribution, while the slaves independently sort portions of the vector in parallel.
 
+---
+
 ### Project Collaborators
 
 André Jacob Suaide - **13864673** <br>
