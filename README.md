@@ -2,6 +2,14 @@
 
 This repository demonstrates the use of **PVM (Parallel Virtual Machine)** to implement parallel sorting of an integer vector using the **Quick Sort** algorithm. The project is divided into a **master** process and multiple **slave** processes. The master coordinates the workload distribution, while the slaves independently sort portions of the vector in parallel.
 
+### Project Collaborators
+
+André Jacob Suaide - **13864673**
+Felipe Aparecido da Silva - **11954502**
+Gustavo Caravalho Araújo - **13735630**
+Rafael Bejes da Cunha Learth - **13676367**
+Vitor Augusto Paiva de Brito - **13732303**
+
 ---
 
 ## 💡 Motivation
@@ -14,7 +22,7 @@ Sorting large datasets can be computationally expensive. By leveraging PVM, this
 
 The repository contains the following key files:
 
-- **`ordena.c`**: The master program that divides the vector, spawns parallel tasks, and merges the sorted sub-vectors.
+- **`sort.c`**: The master program that divides the vector, spawns parallel tasks, and merges the sorted sub-vectors.
 - **`quick.c`**: The slave program that performs the Quick Sort on its assigned portion of the vector.
 - **`Makefile`**: A build script for compiling the programs.
 
@@ -37,7 +45,7 @@ The repository contains the following key files:
 
 ## 📂 Repository Contents
 
-- **`ordena.c`**:
+- **`sort.c`**:
   - Manages the vector division, task spawning, message passing, and merging.
   - Uses the PVM library to communicate with slave processes.
 
@@ -64,15 +72,4 @@ Compile the programs using the provided Makefile:
 ```bash
 make ordena
 make quick
-´´´
----
-
-## Project Collaborators
-
-University of São Paulo - ICMC
-
-André Jacob Suaide (13864673)
-Felipe Aparecido da Silva
-Gustavo 
-Rafael Bejes da Cunha Learth
-Vitor Paiva de Brito
+```
