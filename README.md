@@ -65,7 +65,9 @@ Compile the programs using the provided Makefile:
 make ordena
 make quick
 
-### Project Collaborators
+---
+
+## Project Collaborators
 
 University of São Paulo - ICMC
 
